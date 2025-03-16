@@ -40,3 +40,21 @@
     margin-bottom: 10px;
   }
   
+  
+  /* Dashboard */
+  .dashboard-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  button {
+    margin-top: 15px;
+    background-color: red;
+    color: white;
+  }
+  
